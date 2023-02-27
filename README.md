@@ -1,6 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 With a hunger for knowledge and a passion for creativity. I am diving headfirst into the world of tech and am excited to see where my journey takes me.<br>🤝 In my free time, I love exploring the endless possibilities of content creation .<br>🌱 Currently, I am currently honing my craft with the supercharged combo of JavaScript and React.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gracie-sharma333/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@00.nobody.00) 
