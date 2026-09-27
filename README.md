@@ -1,6 +1,15 @@
+## Hi, I'm Gracie
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-[![](https://visitcount.itsvg.in/api?id=graciesharma&icon=0&color=0)](https://visitcount.itsvg.in)
+Full-stack developer with a frontend focus, based in Nepal. I work mostly in TypeScript, React and Next.js.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Currently SDE 2 at **Renegade Insurance**, where I build the frontend for an insurance marketplace that connects agents with carriers, wholesalers and MGAs. Before that I spent three years there as SDE 1, working on the directory platform that came first.
+
+On the side I build and ship sites for people in Nepal — schools, artists, small businesses — usually Next.js on Vercel with a CMS behind them so the owner can keep the thing alive without me.
+
+**Working with**
+
+`TypeScript` `React` `Next.js` `React Native` `Node` `Tailwind` `React Query` `Zustand` `Sanity` `PostgreSQL`
+
+**Elsewhere**
+
+[graciesharma.com.np](https://graciesharma.com.np) · [LinkedIn](https://www.linkedin.com/in/gracie-sharma333)
