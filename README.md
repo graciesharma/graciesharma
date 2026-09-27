@@ -1,15 +1,11 @@
 ## Hi, I'm Gracie
 
-Full-stack developer with a frontend focus, based in Nepal. I work mostly in TypeScript, React and Next.js.
+Full-stack developer based in Nepal, currently SDE 2 at Renegade Insurance — Java on the backend, React and Next.js on the front.
 
-Currently SDE 2 at **Renegade Insurance**, where I build the frontend for an insurance marketplace that connects agents with carriers, wholesalers and MGAs. Before that I spent three years there as SDE 1, working on the directory platform that came first.
+Outside work I build and ship sites for schools, artists and small businesses in Nepal, mostly Next.js with Supabase or Postgres behind them.
 
-On the side I build and ship sites for people in Nepal — schools, artists, small businesses — usually Next.js on Vercel with a CMS behind them so the owner can keep the thing alive without me.
+**Stack**
 
-**Working with**
-
-`TypeScript` `React` `Next.js` `React Native` `Node` `Tailwind` `React Query` `Zustand` `Sanity` `PostgreSQL`
-
-**Elsewhere**
+`Java` `TypeScript` `React` `Next.js` `React Native` `Node` `PostgreSQL` `Supabase` `Tailwind` `Sanity`
 
 [graciesharma.com.np](https://graciesharma.com.np) · [LinkedIn](https://www.linkedin.com/in/gracie-sharma333)
